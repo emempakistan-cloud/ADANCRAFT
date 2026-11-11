@@ -1,0 +1,7 @@
+{
+  "appId": "com.adancraft.game",
+  "appName": "ADANCRAFT",
+  "webDir": "www",
+  "backgroundColor": "#0b1a2a",
+  "android": { "allowMixedContent": false }
+}
